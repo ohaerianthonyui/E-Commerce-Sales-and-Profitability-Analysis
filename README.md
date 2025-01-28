@@ -28,7 +28,7 @@ The primary goal of this project was to analyze sales data and uncover actionabl
 ### **Methodology**:
 1. **Data Preparation**:
    - I began by importing and reviewing the data to ensure it was complete and clean.
-   - Using **Power Query**, I transformed the data, handling missing values and categorizing information where necessary.
+   - Using **Power Query**, I transformed the data, handling missing values, data type formatting and categorizing information where necessary.
 
 2. **Metrics Creation**:
    I derived key metrics to measure the business performance:
